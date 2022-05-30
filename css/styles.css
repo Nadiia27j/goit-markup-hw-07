@@ -573,14 +573,14 @@ ul {
   padding-left: 0px;
 }
 
-.footer__list .mail {
+.footer__link--padding {
   padding-bottom: 9px;
 }
 
 .footer__link--color {
-  color: rgba(255, 255, 255, 1);
+  color: var(--bg-color);
+  padding-bottom: 9px;
 }
-
 
 
 .footer__link {
