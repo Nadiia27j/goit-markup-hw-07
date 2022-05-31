@@ -1,0 +1,27 @@
+.page-header__nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.page-header__logo {
+  font-family: Raleway, sans-serif;
+  font-size: 26px;
+  text-decoration: none;
+  color: #2196f3;
+  line-height: 1.19;
+  font-weight: 700;
+  margin-right: 93px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.page-header__logo--color {
+  color: #212121;
+  line-height: 1.19;
+  font-weight: 700;
+}
+/*# sourceMappingURL=main.css.map */
